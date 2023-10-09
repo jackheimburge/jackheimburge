@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# Hi there!
+<hr>
+<p>Welcome to my Github page!</p>
+<p>My name is Jack!</p>
+<p>I am a detail oriented and passionate Software Engineer who enjoys developing user friendly applications that solve real world problems.</p>
 
 
 ## Technologies I use...
@@ -23,5 +26,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+## Recent projects...
 
+<a href="https://tide-seeker-1959079ff47b.herokuapp.com/">Tide Seeker Surf Guide</a>
+- Dealership Management
 
