@@ -33,7 +33,7 @@
 - View your favorite surf spots and seemlisly track your surf sessions.
 
 
-<a target="_blank" href="[https://tide-seeker-1959079ff47b.herokuapp.com/](https://dm-solutions-6a34df6ef1ad.herokuapp.com/)https://dm-solutions-6a34df6ef1ad.herokuapp.com/">Dealership Management Solutions</a>
+<a target="_blank" href="https://dm-solutions-6a34df6ef1ad.herokuapp.com">Dealership Management Solutions</a>
 - Built using Python and Django
 - Track inventory and employee sales. 
 - View insights and data visually using Chart.js
