@@ -1,5 +1,5 @@
 # Hi there!
-<hr>
+
 <p>Welcome to my Github page!</p>
 <p>My name is Jack!</p>
 <p>I am a detail oriented and passionate Software Engineer who enjoys developing user friendly applications that solve real world problems.</p>
@@ -31,6 +31,8 @@
 <a target="_blank" href="https://tide-seeker-1959079ff47b.herokuapp.com/">Tide Seeker Surf Guide</a>
 - Web application built using Node.js and Express.js
 - View your favorite surf spots and seemlisly track your surf sessions.
+
+
 <a target="_blank" href="[https://tide-seeker-1959079ff47b.herokuapp.com/](https://dm-solutions-6a34df6ef1ad.herokuapp.com/)https://dm-solutions-6a34df6ef1ad.herokuapp.com/">Dealership Management Solutions</a>
 - Built using Python and Django
 - Track inventory and employee sales. 
