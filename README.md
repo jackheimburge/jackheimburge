@@ -38,3 +38,6 @@
 - Track inventory and employee sales. 
 - View insights and data visually using Chart.js
 
+## Get in touch...
+[![LinkedIn Badge](https://img.shields.io/badge/-@jackheimburge-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/jackheimburge/)
+
