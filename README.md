@@ -27,7 +27,7 @@
 
 ## Recent projects...
 
-<a target="_blank" href="[https://tide-seeker-1959079ff47b.herokuapp.com/](https://card-hub-fc0733ce387e.herokuapp.com/)">Card Hub E-commerce Marketplace</a>
+<a target="_blank" href="https://card-hub-fc0733ce387e.herokuapp.com/">Card Hub E-commerce Marketplace</a>
 -  Built using the MERN stack
 - Created a Single Page App (SPA) with a responsive and user friendly interface.
 - Users can create, update and delete listings as well as add items to their cart and check-out.
