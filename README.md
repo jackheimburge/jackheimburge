@@ -27,6 +27,11 @@
 
 ## Recent projects...
 
+<a target="_blank" href="https://app-trakk-4b69c26873f1.herokuapp.com/">App Trak: Job Application Tracking Tool</a>
+-  Effortlessly keep track of all your job applications in one central hub.
+- A user-friendly interface ensures a seamless and enjoyable experience, even during the most intense job search moments.
+- Gain valuable insights into your job search progress, helping you make informed decisions to optimize your strategy.
+
 <a target="_blank" href="https://card-hub-fc0733ce387e.herokuapp.com/">Card Hub E-commerce Marketplace</a>
 -  Built using the MERN stack
 - Created a Single Page App (SPA) with a responsive and user friendly interface.
