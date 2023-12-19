@@ -28,25 +28,29 @@
 ## Recent projects...
 
 <a target="_blank" href="https://app-trakk-4b69c26873f1.herokuapp.com/">App Trak: Job Application Tracking Tool</a>
--  Effortlessly keep track of all your job applications in one central hub.
-- A user-friendly interface ensures a seamless and enjoyable experience, even during the most intense job search moments.
-- Gain valuable insights into your job search progress, helping you make informed decisions to optimize your strategy.
+- Harnessed the power of the MERN stack, resulting in improved functionality and an enhanced user experience.
+- Implemented functions to handle user interactions to seamlessly create and edit job applications.
+- Developed sophisticated filtering mechanisms to selectively extract and display job analytics.
+
 
 <a target="_blank" href="https://card-hub-fc0733ce387e.herokuapp.com/">Card Hub E-commerce Marketplace</a>
--  Built using the MERN stack
-- Created a Single Page App (SPA) with a responsive and user friendly interface.
-- Users can create, update and delete listings as well as add items to their cart and check-out.
+- Leveraged the power of the MERN (MongoDB, Express, React, Node.js) stack to create dynamic components that contribute to improve the customer experience.
+- Empowered users to effortlessly manage listings by offering features for creating, updating and removing items.
+- Perform comprehensive testing and debugging processes to guarantee the functionality and reliability of components.
+
 
 <a target="_blank" href="https://tide-seeker-1959079ff47b.herokuapp.com/">Tide Seeker Surf Guide</a>
-- Web application built using Node.js and Express.js
-- Implemented leaflet to render maps with the locations of added surf spots.
-- View your favorite surf spots and seemlisly track your surf sessions.
+- Enhanced frontend application performance and scalability and implementing efficient database query.
+- Developed complete CRUD functionality and data models with data stored via MongoDB on the back-end.
+- Implemented RESTful routing and followed Model-View-Controller (MVC) architecture for efficient management.
+
 
 
 <a target="_blank" href="https://dm-solutions-6a34df6ef1ad.herokuapp.com">Dealership Management Solutions</a>
-- Built using Python and Django
-- Track inventory and employee sales. 
-- View insights and data visually using Chart.js
+- Demonstrated leadership as a project manager, ensuring version control and optimizing team workflow.
+- Spearheaded back-end routing and testing, overseeing the management of a PostgreSQL database.
+- Leveraged AWS services and Chart.js to optimize and expand project functionalities.
+
 
 ## Get in touch...
 [![LinkedIn Badge](https://img.shields.io/badge/-@jackheimburge-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/jackheimburge/)
