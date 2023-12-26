@@ -27,13 +27,13 @@
 
 ## Recent projects...
 
-<a target="_blank" href="https://app-trakk-4b69c26873f1.herokuapp.com/">App Trak: Job Application Tracking Tool</a>
+<a target="_blank" href="https://app-trak-2-2c62e0337a96.herokuapp.com/">App Trak: Job Application Tracking Tool</a>
 - Harnessed the power of the MERN stack, resulting in improved functionality and an enhanced user experience.
 - Implemented functions to handle user interactions to seamlessly create and edit job applications.
 - Developed sophisticated filtering mechanisms to selectively extract and display job analytics.
 
 
-<a target="_blank" href="https://card-hub-fc0733ce387e.herokuapp.com/">Card Hub E-commerce Marketplace</a>
+<a target="_blank" href="https://the-card-hub-9536bba25230.herokuapp.com/">Card Hub E-commerce Marketplace</a>
 - Leveraged the power of the MERN (MongoDB, Express, React, Node.js) stack to create dynamic components that contribute to improve the customer experience.
 - Empowered users to effortlessly manage listings by offering features for creating, updating and removing items.
 - Perform comprehensive testing and debugging processes to guarantee the functionality and reliability of components.
